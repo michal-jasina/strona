@@ -1,0 +1,60 @@
+body {
+    font-family: Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('./tlo.jpg');
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+.baner {
+    background-color: #ffa200;
+    color: white;
+    padding: 20px 60px;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 40px;
+}
+
+.stopka {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.artykul {
+    padding: 40px;
+    background-color: #fff;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+h2 {
+    color: #0044ff;
+    margin-top: 75px;
+    font-size: 30px;
+}
+
+h3 {
+    color: #6a00ff;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+li p {
+    margin-left: 60px;
+}
